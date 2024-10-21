@@ -1,6 +1,6 @@
 @font-face {
   font-family: Coolvetica;
-  src: url(coolvetica rg.otf);
+  src: url('coolvetica.otf') format('opentype');
 }
 
 *{
