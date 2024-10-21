@@ -1,3 +1,8 @@
+@font-face {
+  font-family: Coolvetica;
+  src: url(coolvetica rg.otf);
+}
+
 *{
     font-family: Coolvetica;   
     margin: 0;
