@@ -264,8 +264,11 @@ svg{
     width: 90%;
     height: 60px;
     border-radius: 25px;
+    transition: background-color 200ms ease-in-out;
 }
-
+#button:hover{
+    background-image: linear-gradient(to left, orange, rgb(249, 228, 0));
+}
 @media screen and (min-width: 1000px){
     .buttons{
         padding-top: 5%;
